@@ -18,11 +18,4 @@ This Contact Manager is a React-based web application that allows users to manag
 - React.js
 - json-server for mock backend API
 - Axios for HTTP requests
-- CSS for styling (or mention your preferred styling solution)
-
-## Prerequisites
-
-Before you begin, ensure you have met the following requirements:
-
-- Node.js installed (version 12.0 or later recommended)
-- npm (usually comes with Node.js)
+- CSS for styling (Semantic UI, script added in index.html)
