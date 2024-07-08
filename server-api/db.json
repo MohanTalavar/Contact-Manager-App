@@ -1,0 +1,24 @@
+{
+  "contacts": [
+    {
+      "id": "97226a20-0b09-4b65-862b-e56210666ce3",
+      "name": "Mohan Malappa Talavar",
+      "email": "mohan.talawar.20@gmail.com"
+    },
+    {
+      "id": "45d0f203-3f75-467f-8415-13e7b22ab5b9",
+      "name": " Zara Blackwood",
+      "email": "zara.blackwood@emailpro.com"
+    },
+    {
+      "id": "fe9e3f65-a86f-43db-be46-5b53b60f34fe",
+      "name": "Ethan Nguyen",
+      "email": "ethan.n2024@fastmail.net"
+    },
+    {
+      "id": "84ac0835-e22c-4b7e-9d94-45511338452b",
+      "name": "Amelia Cortez",
+      "email": "acortez_work@skynet.io"
+    }
+  ]
+}
