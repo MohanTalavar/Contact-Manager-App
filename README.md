@@ -1,4 +1,3 @@
-markdown
 # Contact Manager React Application
 
 ## Overview
